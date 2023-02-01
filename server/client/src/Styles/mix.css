@@ -1,0 +1,98 @@
+.login {
+    width: 100vw;
+    min-height: 100vh;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+}
+
+.box {
+    width: 300px;
+    /* height: 60vh; */
+    background-color: #ffff;
+    border-radius: 1px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    min-width: 300px;
+    min-height: 60vh;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 29px;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+    align-items: center;
+}
+
+.input_fiel {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.input_fiel>input {
+    width: 90%;
+    margin: 10px;
+    border: 1px solid #909090;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 10px;
+    /* border-style: none; */
+
+
+}
+
+.btns {
+    width: 100%;
+}
+
+.btns>button {
+    width: 90%;
+    color: #ffff;
+    font-size: 19px;
+    cursor: pointer;
+    outline: 0;
+    border: 0;
+    margin: 10px;
+    padding: 6px;
+    border-style: none;
+    border-radius: 30px;
+    background-color: rgb(8, 8, 54);
+}
+
+.account {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* dashboard */
+.dss {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.dss>div{
+    margin: 50px auto;
+}

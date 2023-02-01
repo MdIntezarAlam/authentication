@@ -1,0 +1,28 @@
+.header {
+    width: 100vw;
+    background-color: black;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.header_navbar {
+    width: 100%;
+    color: #fff;
+    display: flex;
+    margin: 20px 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header_icon {
+    width: 50px !important;
+    height: 50px !important;
+    border: 2px solid rgb(7, 48, 253);
+    font-size: 30px !important;
+    background-color: violet;
+    border-radius: 50%;
+    cursor: pointer !important;
+}
