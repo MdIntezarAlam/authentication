@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 package-lock.json
 config.env
@@ -6,6 +7,8 @@ config.env
 client/node_modules
 client/package-lock.json
 =======
+=======
+>>>>>>> 59a2d6a4c7dbf58e06a5c8ade383dceb43253005
 # Logs
 logs
 *.log
@@ -110,4 +113,7 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 >>>>>>> 86a01f513e8ade57fd2f25f882bc092ce6b92fad
+=======
+>>>>>>> 59a2d6a4c7dbf58e06a5c8ade383dceb43253005
